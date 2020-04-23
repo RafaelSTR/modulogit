@@ -1,0 +1,30 @@
+( GIT log ) = mostra tudo que foi feito os commit
+
+(GIT branch) = Lista todos os branch 
+
+(GIT add -A sempre maiuscula) = adiciona os novos arquivos e modificações
+
+(git commit -m "Atualizei o README") = para comentar as mudanças q voce fez
+
+(git reset) {
+tem 3 topos de reset
+
+tipo 1 -soft = Volta para o estado antes do commit
+
+tipo 2 -mixed = Volta para antes do add -A (TENHO QUE COLOCAR NO ADD NOVAMENTE)
+
+tipo 3 -hard = Volta todos as alterações que fiz na quele Commit
+} 
+
+(GIT branch teste)  = para testar os arquivos e novas funcinabilidades
+
+(GIT checkout ex:teste) = muda para o aquivo que eu quero no branch
+
+(GIT Diff) = mostra oq foi ALTERADO arquivos
+
+(GIT Diff --nome-only) = mostra o nome do arquivo q foram modificado
+
+(GIT remote) = mostra o repositorio remoto
+
+(  git push  ex:origin ex:master) = atualiaza meu repositorio online na branch que eu quiser
+ 

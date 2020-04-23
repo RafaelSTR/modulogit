@@ -27,4 +27,4 @@ tipo 3 -hard = Volta todos as alterações que fiz na quele Commit
 (GIT remote) = mostra o repositorio remoto
 
 (  git push  ex:origin ex:master) = atualiaza meu repositorio online na branch que eu quiser
- 
+   
